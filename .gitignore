@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+data/**/*.bin
+data/**/parts/
+out/
+wandb/
+*.pt
+*.pth
